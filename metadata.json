@@ -1,0 +1,6 @@
+{
+  "name": "Marinez Property Services",
+  "description": "Full-service property maintenance, pressure washing, landscaping, and holiday lighting in Tulsa, Oklahoma. Service-Disabled Veteran-Owned Business (SDVOSB).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
